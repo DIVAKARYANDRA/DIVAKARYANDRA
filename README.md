@@ -1,11 +1,15 @@
-- 👋 Hi, I’m DIVAKAR YANDRA.
-- 👀 I’m interested in Coding (C,C++,Java and Python).
-- 🌱 I’m currently Pursuing B.Tech in Mecchanical Engineering.
-- 💞️ I’m looking to collaborate on High Paid Company which suits my Work Standards.
-- 📫 Contact No / Whatsapp No : +91 7306985985
-- Email : divakardiva.5776@gmail.com 
+👋 Hi, I’m **Divakar Yandra**  
 
-<!---
-DIVAKARYANDRA/DIVAKARYANDRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m a **Java Full Stack Developer** at TCS, working on scalable **microservices**, **real-time event streaming with Kafka**, and **cloud-native deployments on AWS** for Ericsson.  
+
+🤖 I build **AI-driven workflows** with **LLM-based chatbots** and **RAG pipelines**, reducing manual effort by 40%+ on internal platforms.  
+
+📈 I’m passionate about **backend engineering, distributed systems, and solving challenging problems** — with 300+ LeetCode problems solved and active participation in hackathons.  
+
+🌱 Currently exploring **modern cloud architectures, scalable systems, and applied AI** in production environments.  
+
+📫 Reach me at:  
+- **Email:** divakardiva.5776@gmail.com  
+- **Phone / WhatsApp:** +91 7306985985  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/divakar-yandra/) | [Portfolio](#) | [LeetCode](https://leetcode.com/u/Divakardiva/)
