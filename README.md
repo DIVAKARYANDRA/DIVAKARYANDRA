@@ -40,9 +40,6 @@ Key capabilities:
 - Event-driven architecture
 
 🌐 **Live Demo:** https://agent-forge-psi-one.vercel.app/agents
-
-📂 **Repository:** https://github.com/DIVAKARYANDRA
-
 ---
 
 ### 🎯 InterviewPilot AI — Adaptive AI Interview Assessment Platform
@@ -62,9 +59,6 @@ Key capabilities:
 - Browser-based speech recognition and silence detection
 
 🌐 **Live Demo:** https://interviewpilot-ai-umber.vercel.app/
-
-📂 **Repository:** https://github.com/DIVAKARYANDRA
-
 ---
 
 ## 🛠️ Technical Skills
